@@ -14,8 +14,8 @@ Walter Hugo Arboleda Mazo
 
 ## Google Drive del equipo:
 
-[Diagramas de clase]
+[Diagramas de clase](Inserte link)
 
-[Diagrama de casos de uso]
+[Diagrama de casos de uso](Inserte link)
 
-[Documento PDF del trabajo]
+[Documento PDF del trabajo](Inserte link)
