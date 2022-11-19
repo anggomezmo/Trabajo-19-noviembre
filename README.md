@@ -16,6 +16,6 @@ Walter Hugo Arboleda Mazo
 
 [Diagramas de clase]
 
-[Documento de casos de uso]
+[Diagrama de casos de uso]
 
 [Documento PDF del trabajo]
