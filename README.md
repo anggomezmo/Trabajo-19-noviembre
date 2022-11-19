@@ -20,4 +20,4 @@ Walter Hugo Arboleda Mazo
 
 [Diagrama de casos de uso](https://drive.google.com/drive/folders/1aK1x5hTD_bNrGzH3wRMwRNPl0_UEfD8P)
 
-[Documento PDF del trabajo](Inserte link)
+[Documento PDF del trabajo](https://drive.google.com/file/d/1414S2TkC4aKw9cXBfHLvIhbmSXpICPsO/view?usp=share_link)
